@@ -26,12 +26,10 @@ This is a simple car maze game built using HTML5 , CSS, and JavaScript. The obje
 
 The game is built using HTML5 Canvas for graphics rendering and JavaScript for game logic and interactivity. It also uses Audio elements to play sound effects.
 
-You can find the game assets (images and sounds) inside the "assets" folder. The main game code is provided in the HTML file with `<script>` tags.
+You can find the game assets (images and sounds) inside the "assets" folder. The main game code is provided in the JS file main.js.
 
 ## How to Run the Game
 
 To play the game, simply open the HTML file (`index.html`) in a modern web browser that supports HTML5 features.
 
-**Note**: Ensure that you have a working internet connection, as the game might load some assets (images and sounds) from external sources.
-
-Enjoy the thrilling experience of racing a car through the forest!
+Enjoy the game !
