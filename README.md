@@ -1,7 +1,7 @@
 # Drive Car
 ### a simple car maze game 
 
-This is a simple car racing game built using HTML, CSS, and JavaScript. The objective of the game is to control a car on the canvas using arrow keys and navigate through a forest filled with trees to reach the finish line.
+This is a simple car maze game built using HTML5 , CSS, and JavaScript. The objective of the game is to control a car on the canvas using arrow keys and navigate through a forest filled with trees to reach the finish line.
 
 ## How to Play
 
